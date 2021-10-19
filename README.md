@@ -1,4 +1,4 @@
-# INSTRUÇÃO PARA RODAR O PRJETO.
+# INSTRUÇÃO PARA RODAR O PROJETO.
 PASSO 1: Abra o terminal do VSCODE e digite "yarn", espere instalar. PASSO 2: Já instalado o yarn, digite "yarn start" é só esperar que o projeto irá abrir no navegador.
 
 Caso queira abrir o projeto no terminal do PC, irá precisar té o (NODE.JS e YARN) instalado na máquina.
