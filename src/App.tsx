@@ -7,7 +7,7 @@ import { AuthContextProvider } from './contexts/AuthContext';
 import Room from './pages/Room';
 import AdminRoom from './pages/AdminRoom';
 
-const App = () => {
+export const App = () => {
   
   return (
     <BrowserRouter>
@@ -23,6 +23,6 @@ const App = () => {
   )
 };
 
-export default App;
+
 
 
